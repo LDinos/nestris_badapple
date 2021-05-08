@@ -1,0 +1,1 @@
+A simple python script that reads all frames from the video Bad Apple (found in the "apple" folder) and renders images using the block for every pixel that is gray or brighter. Finally, the new images are saved in the "end" folder.
